@@ -54,7 +54,11 @@ The Caparo Industries v. Dickman (1990) test provided that, for duty of care to 
 
 In ABC's case:
 Forseeability: Uncontroversially satisfied. Clinicians knew that if ABC was not told of her genetic risk, and was pregnant, serious harm could result.
+
+
 Proximity: A more contentious element. Promimity was argued both via the family relationship as genetic relative (i.e., a directly identifiable member of the risk pool) and via ABC's attendance at family therapy, possibly bringing her directly into the clincial ambit of at least some defendants. 
+
+
 Fair, Just, and Reasonable: The Court of Appeal considered a range of policy arguements such as risk to confidentiality, opening of "floodgates," undermining trust, and exposing clincians to conflicting legal jeopardy if a duty to third parties were accepted. Yet, it found that these were not so overwhelming as to rule out the claimant's case as "unarguable". This means the presence of established professional guidance supporting exceptional disclosure to prevent harm rendered rigid application of the status quo unsatisfactory.
 
 ### Defendants' Confidentiality Duty Arguments:
