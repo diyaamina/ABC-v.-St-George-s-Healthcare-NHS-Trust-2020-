@@ -77,9 +77,16 @@ There were no recognised legal duty to third parties concerning disclosure of pa
 
 
 ### What could have been done differently?:
+The clinicians could have saught an ethics committee review earlier, especially given the gravity of withholding genetic risk from a pregnant women. This might have offered a structured way to balance confidentiality with potential harm to ABC and her unborn child.
 
+
+The medical team could have documented the foreseeable risk to ABC more explicitly, strengthening the argument for a duty of care. This would have helped establish whether the harm was truly "reasonably foreseeable", a key legal threshold.
 
 ### Reflection:
+
+The case highlights the conflict between medical confidentiality and the duty to warn. ABC's late discovery of her father's Huntington's diagnosis denied her the chance to make informed reproductive choices, causing preventable harm. It shows that genetic information isn't just personal, it's rational. As medicine evolves, the law must adapt to protect those indirectly affected, balancing privacy with foreseeable risk.
+
+I'd advocate for clearer NHS guidance on disclosing genetic risk, even without consent, when harm is foreseeable. My legal argument would centre on ABC's right to autonomy and the emotional impact of nondisclosure. Beyond the case, I'd push for policy reform to support clincians in ethically complex situations, ensuring law and care move in step.
 
 ### Bibliography:
 https://resolution.nhs.uk/2020/04/22/case-of-note-abc-v-st-georges-university-hospital-nhs-ft-sw-london-st-georges-mental-health-nhst-and-another-high-court-28-february-2020-yip-j/
