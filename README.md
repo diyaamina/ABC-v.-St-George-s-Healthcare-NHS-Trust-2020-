@@ -71,11 +71,21 @@ ABC's Arguement: She invoked Article 8 in support of her right to be informed of
 Defendants' Arguement: They contended that the confidentiality of XX's medical information was equally protected under Article 8, and that any interference with his rights (by disclosing to ABC without consent) would require a powerful justification and would need to be proportionate.
 
 ### Defendants' Confidentiality Duty Arguments:
-The defendants contended that patient confidentiality is important to the doctor and patient relationship as well as the broader publix trust in healthcare.
+The defendants contended that patient confidentiality is important to the doctor and patient relationship as well as the broader public trust in healthcare.
 
 Their core arguements were:
 
 There were no recognised legal duty to third parties concerning disclosure of patient genetic information in the absence of patient consent.
+
+Clinicians may be held liable where they have voluntarily assumed responsibility for a person’s welfare, even if that person isn’t their direct patient. In ABC’s case, her participation in family therapy sessions and her known pregnancy could be interpreted as placing her within the clinicians’ sphere of concern. By engaging with her in a therapeutic context and being aware of her genetic risk, the clinicians arguably assumed a duty to act in her best interests.
+
+This argument strengthens the proximity element of the Caparo test and reframes the relationship as more than incidental. It suggests that once clinicians were aware of ABC’s vulnerability and the foreseeable harm, their continued silence became ethically and legally significant.
+
+This matters because: 
+1. It shifts the focus from rigid patient boundaries to ralational duty.
+2. It aligns with modern healthcare practice, whereby multidisciplinary teams often engage with families, not just individuals.
+3. It supports the idea that duty of care can arise through conduct, not just formal contracts or direct treatment.
+
 
 
 ### What could have been done differently?:
