@@ -61,6 +61,13 @@ Proximity: A more contentious element. Promimity was argued both via the family 
 
 Fair, Just, and Reasonable: The Court of Appeal considered a range of policy arguements such as risk to confidentiality, opening of "floodgates," undermining trust, and exposing clincians to conflicting legal jeopardy if a duty to third parties were accepted. Yet, it found that these were not so overwhelming as to rule out the claimant's case as "unarguable". This means the presence of established professional guidance supporting exceptional disclosure to prevent harm rendered rigid application of the status quo unsatisfactory.
 
+Article 8 of the European Convention on Human Rights is central in any litigation that touches on privacy, family life, and the release or withholding of personal medical information. Both ABC and the NHS trusts invoked Article 8, but applied it to different ways.
+
+
+ABC's Arguement: She invoked Article 8 in support of her right to be informed of her genetic risk, a right to personal autonomy, family life, and informed reproductive choices.
+
+Defendants' Arguement: They contended that the confidentiality of XX's medical information was equally protected under Article 8, and that any interference with his rights (by disclosing to ABC without consent) would require a powerful justification and would need to be proportionate.
+
 ### Defendants' Confidentiality Duty Arguments:
 The defendants contended that patient confidentiality is important to the doctor and patient relationship as well as the broader publix trust in healthcare.
 
