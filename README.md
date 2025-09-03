@@ -1,15 +1,16 @@
 # ABC-v.-St-George-s-Healthcare-NHS-Trust-2020-
 
 ### Who was involved?:
+ABC (claimant), her father (XX, patient), multiple NHS Trusts including St George's Healthcare NHS Trust, South West London and St George's Mental Health NHS Trust, and Sussex Partnership NHS Foundation Trust
 
 ### Summary of Medical History & Background:
 The chronology of ABC's medical journey is fundamental to appreciating the timing and nature of each legal and ethical decision point.
 
 
-In 2009, clincial suspicions arose that her father suffered from Huntington's Disease, a neurodegenerative condition characterised by progressive cognitive, psychatric, and motor dysfunction, resulting from a trinucleotide repeat expansion in the huntingtin gene (HTT). This is a highly penetrant monogenetic disorder, with every child of an affected parent carrying a 50% risk of inheriting the mutation.
+In 2009, clinical suspicions arose that her father suffered from Huntington's Disease, a neurodegenerative condition characterised by progressive cognitive, psychatric, and motor dysfunction, resulting from a trinucleotide repeat expansion in the huntingtin gene (HTT). This is a highly penetrant monogenetic disorder, with every child of an affected parent carrying a 50% risk of inheriting the mutation.
 
 
-The father was referred for genetic testing following multidisciplinary assessment. The diagnosis was confirmed in Novmeber 2009. However, throughout the period when predicitve knowledge of the genetic mutation would have been most crucial for ABC, who was visibly pregnant, her father consistently withheld concent for information sharing, even following repeated inquiries from clinicians.
+The father was referred for genetic testing following multidisciplinary assessment. The diagnosis was confirmed in Novmeber 2009. However, throughout the period when predicitve knowledge of the genetic mutation would have been most crucial for ABC, who was visibly pregnant, her father consistently withheld consent for information sharing, even following repeated inquiries from clinicians.
 
 
 After the birth of ABC's daughter in April 2010, a clinician inadvertently referenced the gather's Huntington's diagnosis in conversation with ABC in August 2010. She underwent confirmatory genetic testing for the Huntington's mutation and, in January 2013, was diagnosed as a carrier. Given the nature of HD, the diagnosis carried major implications for her health, future, and, most critically for this litigation, her daughter's genetic risk. 
@@ -17,7 +18,7 @@ After the birth of ABC's daughter in April 2010, a clinician inadvertently refer
 
 Routine practice in the UK does not support predictive testing for children until adulthood, so ABC was left with uncertianty regarding her daughter's own status, compounding her psychological distress.
 ### Context:
-In 2007, the claiment's father, referred to as XX, shot and killed her mother. He was convicted of manslaughter by reason of deminished responsibility and was detained by hospital order under the Mental Health Act 1983. During his detention, XX came under the care of multidisciplinary clinicians from multiple NHS Trusts, specifically, St George's Healthcare NHS Trust, South West London and St George's Mental Health NHS Trust, and Sussex Partnership NHS Foundation Trust.
+In 2007, the claimant's father, referred to as XX, shot and killed her mother. He was convicted of manslaughter by reason of deminished responsibility and was detained by hospital order under the Mental Health Act 1983. During his detention, XX came under the care of multidisciplinary clinicians from multiple NHS Trusts, specifically, St George's Healthcare NHS Trust, South West London and St George's Mental Health NHS Trust, and Sussex Partnership NHS Foundation Trust.
 
 
 The family context was highly fraught: not only had ABC lost her mother at the hands of her father, but she was facing the criminal justice system, the mental health system, and the risk of serious genetic illness.
@@ -34,7 +35,7 @@ ABC, therefore, proceeded through her pregnancy without knowledge of her own maj
 ### Issues:
 The crucial legal issue became whether the clincial team's decision not to inform ABC could constitute negligence in law, especially given they were following the established patient's wishes and clinical guidance regarding confidentiality.
 
-ABC had to prove, on the balance of probabilities, that earlier disclosure would have lef not only to testing but also to termination. This addresses both factual and speculative hurdles, particularly regarding her intentions, timing of testing, and the legal timeframe for lawful termination of her pregnancy.
+ABC had to prove, on the balance of probabilities, that earlier disclosure would have left not only to testing but also to termination. This addresses both factual and speculative hurdles, particularly regarding her intentions, timing of testing, and the legal timeframe for lawful termination of her pregnancy.
 
 ### Legal Context:
 Wrongful birth claims generally involve circumstances in which a patient alleges that negligence deprived her of the opportunity to avoid the birth of a child affected by serious medical conditions, usually through termination of pregnancy. In ABC's case, the wrongful birth aspect was not of a healthy but unwanted child but encompassed asserted loss of reproductive autonomy and the birth of a child at 50% risk of Huntington's Disease in which she unknowingly carried.
@@ -58,6 +59,7 @@ Forseeability: Uncontroversially satisfied. Clinicians knew that if ABC was not 
 
 Proximity: A more contentious element. Promimity was argued both via the family relationship as genetic relative (i.e., a directly identifiable member of the risk pool) and via ABC's attendance at family therapy, possibly bringing her directly into the clincial ambit of at least some defendants. 
 
+Promimity was debated because ABC was not a direct patient of the defendants, though hee involvement in family therapy and her genetic relationship to XX placed her within the foreseeable risk group.
 
 Fair, Just, and Reasonable: The Court of Appeal considered a range of policy arguements such as risk to confidentiality, opening of "floodgates," undermining trust, and exposing clincians to conflicting legal jeopardy if a duty to third parties were accepted. Yet, it found that these were not so overwhelming as to rule out the claimant's case as "unarguable". This means the presence of established professional guidance supporting exceptional disclosure to prevent harm rendered rigid application of the status quo unsatisfactory.
 
@@ -86,7 +88,8 @@ The medical team could have documented the foreseeable risk to ABC more explicit
 
 The case highlights the conflict between medical confidentiality and the duty to warn. ABC's late discovery of her father's Huntington's diagnosis denied her the chance to make informed reproductive choices, causing preventable harm. It shows that genetic information isn't just personal, it's rational. As medicine evolves, the law must adapt to protect those indirectly affected, balancing privacy with foreseeable risk.
 
-I'd advocate for clearer GMC guidance or NHS protocols on disclosing genetic risk, even without consent, when harm is foreseeable. My legal argument would centre on ABC's right to autonomy and the emotional impact of nondisclosure. Beyond the case, I'd push for policy reform to support clincians in ethically complex situations, ensuring law and care move in step.
+
+This case underscores the need for clearer protocols when genetic risk affects third parties. If I were advising in such a case, I'd advocate for proactive ethics consultations and transparent documentation of foreseeable harm. My legal approach would centre on protecting reproductive autonomy and emotional wellbeing, ensuring that law supports ethical care.
 
 ### Bibliography:
 https://resolution.nhs.uk/2020/04/22/case-of-note-abc-v-st-georges-university-hospital-nhs-ft-sw-london-st-georges-mental-health-nhst-and-another-high-court-28-february-2020-yip-j/
