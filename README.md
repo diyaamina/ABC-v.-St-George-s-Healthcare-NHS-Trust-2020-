@@ -3,8 +3,19 @@
 ### Who was involved?:
 
 ### Summary of Medical History & Background:
+The chronology of ABC's medical journey is fundamental to appreciating the timing and nature of each legal and ethical decision point.
 
 
+In 2009, clincial suspicions arose that her father suffered from Huntington's Disease, a neurodegenerative condition characterised by progressive cognitive, psychatric, and motor dysfunction, resulting from a trinucleotide repeat expansion in the huntingtin gene (HTT). This is a highly penetrant monogenetic disorder, with every child of an affected parent carrying a 50% risk of inheriting the mutation.
+
+
+The father was referred for genetic testing following multidisciplinary assessment. The diagnosis was confirmed in Novmeber 2009. However, throughout the period when predicitve knowledge of the genetic mutation would have been most crucial for ABC, who was visibly pregnant, her father consistently withheld concent for information sharing, even following repeated inquiries from clinicians.
+
+
+After the birth of ABC's daughter in April 2010, a clinician inadvertently referenced the gather's Huntington's diagnosis in conversation with ABC in August 2010. She underwent confirmatory genetic testing for the Huntington's mutation and, in January 2013, was diagnosed as a carrier. Given the nature of HD, the diagnosis carried major implications for her health, future, and, most critically for this litigation, her daughter's genetic risk. 
+
+
+Routine practice in the UK does not support predictive testing for children until adulthood, so ABC was left with uncertianty regarding her daughter's own status, compounding her psychological distress.
 ### Context:
 In 2007, the claiment's father, referred to as XX, shot and killed her mother. He was convicted of manslaughter by reason of deminished responsibility and was detained by hospital order under the Mental Health Act 1983. During his detention, XX came under the care of multidisciplinary clinicians from multiple NHS Trusts, specifically, St George's Healthcare NHS Trust, South West London and St George's Mental Health NHS Trust, and Sussex Partnership NHS Foundation Trust.
 
@@ -21,9 +32,19 @@ Despite this, XX was adamant that his daughters not be told of this diagnosis, f
 ABC, therefore, proceeded through her pregnancy without knowledge of her own major risk. A few months after her daughter's birth in April 2010, she was informed accidentally of her father's diagnosis by a clincian. She subsequently underwent genetic testing and, in January 2013, was herself diagnosed with Huntington's Disease. The cascade of events proved life changing: as a single mother, ABC now faced the spectre of degenerative, untreatable disease for both herself and the 50% risk for her child.
 
 ### Issues:
+The crucial legal issue became whether the clincial team's decision not to inform ABC could constitute negligence in law, especially given they were following the established patient's wishes and clinical guidance regarding confidentiality.
 
+ABC had to prove, on the balance of probabilities, that earlier disclosure would have lef not only to testing but also to termination. This addresses both factual and speculative hurdles, particularly regarding her intentions, timing of testing, and the legal timeframe for lawful termination of her pregnancy.
 
 ### Legal Context:
+Wrongful birth claims generally involve circumstances in which a patient alleges that negligence deprived her of the opportunity to avoid the birth of a child affected by serious medical conditions, usually through termination of pregnancy. In ABC's case, the wrongful birth aspect was not of a healthy but unwanted child but encompassed asserted loss of reproductive autonomy and the birth of a child at 50% risk of Huntington's Disease in which she unknowingly carried.
+
+The viability of the wrongful birth claim depended upon linking the defendants' omission, their failure to disclose her father's diagnosis, to her inability to take reproductive action. 
+
+Legally, she needed to establish:
+1. That her duty of care existed
+2. That it had been breached
+3. That the breach caused of the birth of a child who would otherwise not have been born
 
 ### Application:
 
