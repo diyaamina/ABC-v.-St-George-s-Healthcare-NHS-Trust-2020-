@@ -86,7 +86,7 @@ The medical team could have documented the foreseeable risk to ABC more explicit
 
 The case highlights the conflict between medical confidentiality and the duty to warn. ABC's late discovery of her father's Huntington's diagnosis denied her the chance to make informed reproductive choices, causing preventable harm. It shows that genetic information isn't just personal, it's rational. As medicine evolves, the law must adapt to protect those indirectly affected, balancing privacy with foreseeable risk.
 
-I'd advocate for clearer NHS guidance on disclosing genetic risk, even without consent, when harm is foreseeable. My legal argument would centre on ABC's right to autonomy and the emotional impact of nondisclosure. Beyond the case, I'd push for policy reform to support clincians in ethically complex situations, ensuring law and care move in step.
+I'd advocate for clearer GMC guidance or NHS protocols on disclosing genetic risk, even without consent, when harm is foreseeable. My legal argument would centre on ABC's right to autonomy and the emotional impact of nondisclosure. Beyond the case, I'd push for policy reform to support clincians in ethically complex situations, ensuring law and care move in step.
 
 ### Bibliography:
 https://resolution.nhs.uk/2020/04/22/case-of-note-abc-v-st-georges-university-hospital-nhs-ft-sw-london-st-georges-mental-health-nhst-and-another-high-court-28-february-2020-yip-j/
