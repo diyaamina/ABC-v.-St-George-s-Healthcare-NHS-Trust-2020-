@@ -47,9 +47,22 @@ Legally, she needed to establish:
 3. That the breach caused of the birth of a child who would otherwise not have been born
 
 ### Application:
+The Caparo Industries v. Dickman (1990) test provided that, for duty of care to be established in negligence, three conditions must be satisfied:
+1. damage must be foreseeable
+2. a relationship of proximity or neighbourhood must exist
+3. it must be fair, just, and reasonable to impose duty
 
+In ABC's case:
+Forseeability: Uncontroversially satisfied. Clinicians knew that if ABC was not told of her genetic risk, and was pregnant, serious harm could result.
+Proximity: A more contentious element. Promimity was argued both via the family relationship as genetic relative (i.e., a directly identifiable member of the risk pool) and via ABC's attendance at family therapy, possibly bringing her directly into the clincial ambit of at least some defendants. 
+Fair, Just, and Reasonable: The Court of Appeal considered a range of policy arguements such as risk to confidentiality, opening of "floodgates," undermining trust, and exposing clincians to conflicting legal jeopardy if a duty to third parties were accepted. Yet, it found that these were not so overwhelming as to rule out the claimant's case as "unarguable". This means the presence of established professional guidance supporting exceptional disclosure to prevent harm rendered rigid application of the status quo unsatisfactory.
 
-### Timeline of Events:
+### Defendants' Confidentiality Duty Arguments:
+The defendants contended that patient confidentiality is important to the doctor and patient relationship as well as the broader publix trust in healthcare.
+
+Their core arguements were:
+
+There were no recognised legal duty to third parties concerning disclosure of patient genetic information in the absence of patient consent.
 
 
 ### What could have been done differently?:
