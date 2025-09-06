@@ -47,6 +47,7 @@ Legally, she needed to establish:
 2. That it had been breached
 3. That the breach caused of the birth of a child who would otherwise not have been born
 
+
 ### Application:
 The Caparo Industries v. Dickman (1990) test provided that, for duty of care to be established in negligence, three conditions must be satisfied:
 1. damage must be foreseeable
@@ -69,6 +70,15 @@ Article 8 of the European Convention on Human Rights is central in any litigatio
 ABC's Arguement: She invoked Article 8 in support of her right to be informed of her genetic risk, a right to personal autonomy, family life, and informed reproductive choices.
 
 Defendants' Arguement: They contended that the confidentiality of XX's medical information was equally protected under Article 8, and that any interference with his rights (by disclosing to ABC without consent) would require a powerful justification and would need to be proportionate.
+
+Common Law of Negligence: The central issue was whether the NHS Trusts owed ABC a duty of care to disclose her father's huntington's diagnosis.
+
+Human Rights Act 1998: ABC argued that her rights under Article 8 of the European Convention on Human Rights were breached through right to respect for private and family life, she claimed this included her right to know her genetic risk and make informed reproductive decisions. The defendants countered that XX's confidentiality was also protected under Article 8, and disclosure without consent would interfere with his rights.
+
+Mental Health Act 1983: XX was detained under this Act following his conviction for manslaughter due to diminished responsibility. His care under this framework placed him within the jurisdiction of the NHS Trust involved. 
+
+
+This case was notable because it tested the boundaries of third-party disclosure in genetic medicine. While the court did not definitively impose a new duty of care, it refused to strike out ABC's claim as "unarguable", allowing it to proceed to trail. This signaled a potential shift in how confidentiality and genetic risk may be balanced in future legal decisions.
 
 ### Defendants' Confidentiality Duty Arguments:
 The defendants contended that patient confidentiality is important to the doctor and patient relationship as well as the broader public trust in healthcare.
