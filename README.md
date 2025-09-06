@@ -1,4 +1,4 @@
-# ABC-v.-St-George-s-Healthcare-NHS-Trust-2020-
+# ABC-v.-St-George-s-Healthcare-NHS-Trust-and-Others-2017-
 
 ### Who was involved?:
 ABC (claimant), her father (XX, patient), multiple NHS Trusts including St George's Healthcare NHS Trust, South West London and St George's Mental Health NHS Trust, and Sussex Partnership NHS Foundation Trust.
