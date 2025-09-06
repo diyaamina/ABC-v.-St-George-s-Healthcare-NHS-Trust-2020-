@@ -1,7 +1,7 @@
 # ABC-v.-St-George-s-Healthcare-NHS-Trust-2020-
 
 ### Who was involved?:
-ABC (claimant), her father (XX, patient), multiple NHS Trusts including St George's Healthcare NHS Trust, South West London and St George's Mental Health NHS Trust, and Sussex Partnership NHS Foundation Trust
+ABC (claimant), her father (XX, patient), multiple NHS Trusts including St George's Healthcare NHS Trust, South West London and St George's Mental Health NHS Trust, and Sussex Partnership NHS Foundation Trust.
 
 ### Summary of Medical History & Background:
 The chronology of ABC's medical journey is fundamental to appreciating the timing and nature of each legal and ethical decision point.
