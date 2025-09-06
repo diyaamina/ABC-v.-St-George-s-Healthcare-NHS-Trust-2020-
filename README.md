@@ -96,6 +96,9 @@ This matters because:
 2. It aligns with modern healthcare practice, whereby multidisciplinary teams often engage with families, not just individuals.
 3. It supports the idea that duty of care can arise through conduct, not just formal contracts or direct treatment.
 
+###The trail outcome:
+
+The trail centred on whether clinians had a legal duty to inform ABC of her genetic risk for Huntington's disease, despite her father's refusal to consent to disclosure. ABC argued that this failure deprived her of the chance to make informed reproductive decisions, constituting negligence and a breach of her rights under Article 8 of the Human Rights Act. The High Court, led by Mrs Justice Yip, acknowledged that healthcare professionals do have a legal duty to consider the rights of third parties when withholding confidential information could expose them to serious harm. However, in this case, the clincians were found to have conducted a reasonable balancing exercise, even if undocumented, and therefore had not breached their duty. As a result, the claim failed, but the ruling marked a significant development in UK law by recognising that a legal duty to consider disclosure may exist in cases involving genetic risk.
 
 
 ### What could have been done differently?:
