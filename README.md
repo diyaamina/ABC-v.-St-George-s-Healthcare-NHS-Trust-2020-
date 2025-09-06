@@ -96,7 +96,7 @@ This matters because:
 2. It aligns with modern healthcare practice, whereby multidisciplinary teams often engage with families, not just individuals.
 3. It supports the idea that duty of care can arise through conduct, not just formal contracts or direct treatment.
 
-###The trail outcome:
+### The trail outcome:
 
 The trail centred on whether clinians had a legal duty to inform ABC of her genetic risk for Huntington's disease, despite her father's refusal to consent to disclosure. ABC argued that this failure deprived her of the chance to make informed reproductive decisions, constituting negligence and a breach of her rights under Article 8 of the Human Rights Act. The High Court, led by Mrs Justice Yip, acknowledged that healthcare professionals do have a legal duty to consider the rights of third parties when withholding confidential information could expose them to serious harm. However, in this case, the clincians were found to have conducted a reasonable balancing exercise, even if undocumented, and therefore had not breached their duty. As a result, the claim failed, but the ruling marked a significant development in UK law by recognising that a legal duty to consider disclosure may exist in cases involving genetic risk.
 
@@ -118,5 +118,16 @@ This case underscores the need for clearer protocols when genetic risk affects t
 https://resolution.nhs.uk/2020/04/22/case-of-note-abc-v-st-georges-university-hospital-nhs-ft-sw-london-st-georges-mental-health-nhst-and-another-high-court-28-february-2020-yip-j/
 https://www.mentalhealthlaw.co.uk/ABC_v_St_George%27s_Healthcare_NHS_Trust_(2020)_EWHC_455_(QB)
 https://www.pure.ed.ac.uk/ws/portalfiles/portal/179453286/McMillanCELW2020ABCvStGeorge.pdf
-
-
+https://www.phgfoundation.org/blog/abc-v-stgeorges-new-duty/
+https://www.1cor.com/london/2018/01/09/must-the-family-be-told/
+https://vlex.co.uk/vid/abc-v-st-george-792961197
+https://bestpractice.bmj.com/topics/en-gb/513
+https://www.bmj.com/content/361/bmj.k1409
+https://www.uhs.nhs.uk/Media/UHS-website-2019/Docs/Services/Genetics/Consent-and-Confidentiality-Guidance.pdf
+https://www.phgfoundation.org/blog/abc-v-stgeorges-new-duty/
+https://ks.echr.coe.int/documents/d/echr-ks/guide_art_8_eng-pdf
+https://www.bacp.co.uk/media/21757/bacp-managing-confidentiality-lr-gpia014-sept-24.pdf
+https://www.gmc-uk.org/professional-standards/the-professional-standards/confidentiality/disclosures-for-the-protection-of-patients-and-others
+https://bsgm.org.uk/healthcare-professionals/confidentiality-and-genetic-information/
+https://www.hda.org.uk/professionals-and-training/resources-for-professionals/national-guidance/
+https://www.phgfoundation.org/research/familial-information/
