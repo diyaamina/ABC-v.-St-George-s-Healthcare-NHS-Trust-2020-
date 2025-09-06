@@ -78,7 +78,7 @@ Human Rights Act 1998: ABC argued that her rights under Article 8 of the Europea
 Mental Health Act 1983: XX was detained under this Act following his conviction for manslaughter due to diminished responsibility. His care under this framework placed him within the jurisdiction of the NHS Trust involved. 
 
 
-This case was notable because it tested the boundaries of third-party disclosure in genetic medicine. While the court did not definitively impose a new duty of care, it refused to strike out ABC's claim as "unarguable", allowing it to proceed to trail. This signaled a potential shift in how confidentiality and genetic risk may be balanced in future legal decisions.
+This case was notable because it tested the boundaries of third party disclosure in genetic medicine. While the court did not definitively impose a new duty of care, it refused to strike out ABC's claim as "unarguable", allowing it to proceed to trail. This signaled a potential shift in how confidentiality and genetic risk may be balanced in future legal decisions.
 
 ### Defendants' Confidentiality Duty Arguments:
 The defendants contended that patient confidentiality is important to the doctor and patient relationship as well as the broader public trust in healthcare.
